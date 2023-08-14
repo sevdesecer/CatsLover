@@ -49,8 +49,8 @@ input[type="submit"]{
     text-decoration: antiquewhite;
 }
 .create-account-link a {
-    color: #81038a; /* İstediğiniz renk kodu */
-    text-decoration: none; /* Altı çizgiyi kaldır */
+    color: #81038a; 
+    text-decoration: none; 
 }
 h2{
     color: #4b0350;
